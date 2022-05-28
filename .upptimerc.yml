@@ -20,7 +20,7 @@ status-website:
   baseUrl: /upptime
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://moers.ch/Moers-GmbH-Logo.png
-  name: Upptime
+  name: Moers GmbH
   introTitle: "Uptime monitor and status page for Moers GmbH"
   introMessage: Status for sites managed by Moers GmbH
   navbar:
