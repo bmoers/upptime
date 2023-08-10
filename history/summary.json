@@ -6,18 +6,16 @@
     "slug": "erm-4-sn",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 858,
-    "timeDay": 1125,
-    "timeWeek": 1181,
-    "timeMonth": 1145,
+    "timeDay": 920,
+    "timeWeek": 1126,
+    "timeMonth": 1134,
     "timeYear": 914,
-    "dailyMinutesDown": {
-      "2023-08-09": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ERM4SN-Demo",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 907,
-    "timeDay": 399,
-    "timeWeek": 672,
-    "timeMonth": 688,
-    "timeYear": 863,
+    "timeDay": 593,
+    "timeWeek": 687,
+    "timeMonth": 673,
+    "timeYear": 861,
     "dailyMinutesDown": {}
   }
 ]
