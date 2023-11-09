@@ -4,18 +4,20 @@
     "url": "https://erm4sn.com",
     "icon": "https://icons.duckduckgo.com/ip3/erm4sn.com.ico",
     "slug": "erm-4-sn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 941,
-    "timeDay": 1126,
-    "timeWeek": 1266,
-    "timeMonth": 1073,
-    "timeYear": 1045,
-    "dailyMinutesDown": {}
+    "time": 975,
+    "timeDay": 9141,
+    "timeWeek": 3220,
+    "timeMonth": 1571,
+    "timeYear": 1089,
+    "dailyMinutesDown": {
+      "2023-11-09": 0
+    }
   },
   {
     "name": "ERM4SN-Demo",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 860,
-    "timeDay": 592,
-    "timeWeek": 775,
-    "timeMonth": 724,
-    "timeYear": 753,
+    "time": 859,
+    "timeDay": 668,
+    "timeWeek": 744,
+    "timeMonth": 721,
+    "timeYear": 751,
     "dailyMinutesDown": {}
   }
 ]
