@@ -4,18 +4,19 @@
     "url": "https://erm4sn.com",
     "icon": "https://icons.duckduckgo.com/ip3/erm4sn.com.ico",
     "slug": "erm-4-sn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1063,
-    "timeDay": 1233,
-    "timeWeek": 1126,
-    "timeMonth": 1121,
-    "timeYear": 1161,
+    "time": 1062,
+    "timeDay": 652,
+    "timeWeek": 994,
+    "timeMonth": 1089,
+    "timeYear": 1158,
     "dailyMinutesDown": {
+      "2024-02-12": 0,
       "2023-11-09": 29
     }
   },
@@ -24,17 +25,19 @@
     "url": "https://demo.erm4sn.com",
     "icon": "https://icons.duckduckgo.com/ip3/demo.erm4sn.com.ico",
     "slug": "erm-4-sn-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 774,
-    "timeDay": 791,
-    "timeWeek": 856,
-    "timeMonth": 785,
-    "timeYear": 752,
-    "dailyMinutesDown": {}
+    "time": 772,
+    "timeDay": 423,
+    "timeWeek": 756,
+    "timeMonth": 763,
+    "timeYear": 750,
+    "dailyMinutesDown": {
+      "2024-02-12": 0
+    }
   }
 ]
