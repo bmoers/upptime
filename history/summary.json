@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 979,
-    "timeDay": 691,
-    "timeWeek": 661,
-    "timeMonth": 720,
-    "timeYear": 920,
-    "dailyMinutesDown": {
-      "2023-11-09": 29
-    }
+    "time": 978,
+    "timeDay": 769,
+    "timeWeek": 697,
+    "timeMonth": 725,
+    "timeYear": 918,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ERM4SN-Demo",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 746,
-    "timeDay": 797,
-    "timeWeek": 689,
-    "timeMonth": 689,
-    "timeYear": 754,
+    "timeDay": 810,
+    "timeWeek": 692,
+    "timeMonth": 692,
+    "timeYear": 755,
     "dailyMinutesDown": {}
   }
 ]
