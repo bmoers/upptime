@@ -4,19 +4,19 @@
     "url": "https://erm4sn.com",
     "icon": "https://icons.duckduckgo.com/ip3/erm4sn.com.ico",
     "slug": "erm-4-sn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 977,
-    "timeDay": 1564,
-    "timeWeek": 1017,
-    "timeMonth": 799,
-    "timeYear": 873,
+    "time": 980,
+    "timeDay": 1917,
+    "timeWeek": 1213,
+    "timeMonth": 863,
+    "timeYear": 878,
     "dailyMinutesDown": {
-      "2024-11-14": 14
+      "2024-11-14": 0
     }
   },
   {
