@@ -22,19 +22,19 @@
     "url": "https://demo.erm4sn.com",
     "icon": "https://icons.duckduckgo.com/ip3/demo.erm4sn.com.ico",
     "slug": "erm-4-sn-demo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 807,
-    "timeDay": 4221,
-    "timeWeek": 3134,
-    "timeMonth": 1537,
-    "timeYear": 832,
+    "timeDay": 3011,
+    "timeWeek": 2903,
+    "timeMonth": 1513,
+    "timeYear": 831,
     "dailyMinutesDown": {
-      "2025-01-06": 0
+      "2025-01-06": 13
     }
   }
 ]
