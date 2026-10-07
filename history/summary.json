@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 889,
-    "timeDay": 857,
-    "timeWeek": 817,
-    "timeMonth": 895,
+    "time": 890,
+    "timeDay": 870,
+    "timeWeek": 802,
+    "timeMonth": 883,
     "timeYear": 893,
     "dailyMinutesDown": {
       "2025-11-18": 32
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.erm4sn.com.ico",
     "slug": "erm-4-sn-demo",
     "status": "down",
-    "uptime": "73.89%",
+    "uptime": "73.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 212,
-    "timeDay": 24,
-    "timeWeek": 30,
+    "time": 210,
+    "timeDay": 49,
+    "timeWeek": 33,
     "timeMonth": 38,
-    "timeYear": 98,
+    "timeYear": 97,
     "dailyMinutesDown": {
-      "2026-10-06": 31,
+      "2026-10-07": 32,
+      "2026-10-06": 1440,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
@@ -399,8 +400,7 @@
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
-      "2025-10-08": 1440,
-      "2025-10-07": 1440
+      "2025-10-08": 1440
     }
   }
 ]
